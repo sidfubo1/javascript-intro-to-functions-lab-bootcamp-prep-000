@@ -1,4 +1,4 @@
 function shout (string) {
-  string = string.capitalize();
+  string = string.toUpperCase();
   return string;
 }
