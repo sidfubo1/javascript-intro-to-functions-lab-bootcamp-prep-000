@@ -18,4 +18,6 @@ function logWhisper (string) {
   console.log(string);
 }
 
-function sayHello
+function sayHiToGrandma (string) {
+  
+}
